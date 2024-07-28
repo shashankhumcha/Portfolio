@@ -8,33 +8,34 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Hi!!!, I am <span className="purple">Shashank S </span>
+            I'm from from <span className="purple"> Shivamogga </span>India.
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently looking for a <span className="purple">Job!!!.</span>
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have completed my Bachelors (B.E) in Computer Science <br/>
+            at Canara Engineering College.
+          
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, <span className="purple">I love to do!</span>
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Getting lost in a good book.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Playing sports.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Travelling.
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          
+            "Don't wait to do good things till <span className="purple">TOMORROW!"{" "}</span>
+          <p></p>
+          <footer className="blockquote-footer">Shashank</footer>
         </blockquote>
       </Card.Body>
     </Card>
